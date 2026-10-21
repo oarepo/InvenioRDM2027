@@ -105,7 +105,7 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. Lore
 
 **By train:** Praha hlavní nádraží (main station) with direct connections from Vienna, Berlin, Munich and Bratislava.
 
-**Local transport:** The venue is a short walk from metro A station Dejvická and the trams at Vítězné náměstí. Plan your trip with the [PID route planner](https://pid.cz/en/){.inline}.
+**Local transport:** The venue is a short walk from metro A station Dejvická and the trams at Vítězné náměstí. Plan your trip with the [PID route planner](https://pid.cz/en/search-connection/?to=Dejvick%C3%A1){.inline}.
 :::
 :::
 

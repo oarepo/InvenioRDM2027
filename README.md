@@ -10,13 +10,10 @@ All content lives in `content/index.md` (Pandoc Markdown):
 - Layout blocks use fenced divs: `::: card`, `::: {.grid .grid-3}` … `:::`.
   Outer blocks need more colons than inner ones (`::::` around `:::`).
 - Buttons: `[Book](https://…){.btn}`.
-- Full-width bands use the class `.band` (not `.section` – Pandoc swallows that class).
-  Add `.grey` for the grey background and `.flow-loop`, `.flow-s` or `.flow-wave` for an animated dashed line.
-- Image tiles are placeholders; give them a photo with `::: {.tile .tile-a style="--img:url(assets/photo.jpg)"}`.
-- Counters: `[100]{.count data-to="100" data-suffix="+"} participants`.
+- Sections use the class `.band` (not `.section` – Pandoc swallows that class).
 - The hero countdown counts to `start:` in the front matter.
 
-`assets/site.js` adds the animations (binary rain, scroll reveal, count-up, countdown, marquee).
+`assets/site.js` adds the hero animations (binary rain, countdown) and the navbar highlighting.
 All motion is disabled for visitors with "reduce motion" set; without JS the page is still complete.
 
 The previous, static design is kept in `archive/v1/`.

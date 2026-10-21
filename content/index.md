@@ -96,7 +96,7 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. Lore
 
 **Address:** CESNET a.l.e., Generála Píky 430/26, 160 00 Praha 6, Czech Republic
 
-[View on map](https://www.openstreetmap.org/?mlat=50.0988&mlon=14.3887#map=17/50.0988/14.3887){.inline}
+[View on Mapy.com](https://mapy.com/en/zakladni?q=CESNET%2C%20Gener%C3%A1la%20P%C3%ADky%20430%2F26%2C%20Praha%206&x=14.3887&y=50.0988&z=17){.inline}
 :::
 
 ::: card

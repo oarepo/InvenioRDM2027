@@ -48,7 +48,7 @@ h4 { font-size: 1.05rem; }
 .btn::after { content: ""; width: 1.5rem; height: 1.5rem; background: var(--arrow-white) center / contain no-repeat; transition: transform .25s var(--ease); }
 .btn:hover { background: var(--lightblue); transform: translateY(-2px); box-shadow: 0 10px 24px rgba(0,104,162,.25); }
 .btn:hover::after { transform: translateX(4px); }
-.hero .btn { font-size: 1.25rem; padding: 1rem 1.1rem 1rem 1.8rem; }
+.hero .btn { font-size: 1.1rem; padding: .85rem .95rem .85rem 1.4rem; }
 .hero .btn::after { width: 1.7rem; height: 1.7rem; }
 .btn-light { background: #fff; color: var(--blue) !important; }
 .btn-light::after { background-image: var(--arrow-blue); }
@@ -71,7 +71,7 @@ h4 { font-size: 1.05rem; }
 .hero h1 { color: #fff; text-transform: uppercase; font-size: clamp(2.4rem, 5.5vw, 4.4rem); line-height: 1.12; letter-spacing: .01em; margin-bottom: 2rem; }
 .hero h1 span { display: block; }
 .hero .lead { font-size: 1.15rem; max-width: 36rem; }
-.hero .actions { display: flex; gap: 1rem; flex-wrap: wrap; margin-top: 2.5rem; }
+.hero .actions { display: flex; gap: .75rem; flex-wrap: wrap; margin-top: 2.5rem; }
 .hero__card { background: #fff; color: var(--grey); border-radius: 8px; padding: 2rem; box-shadow: 0 30px 60px rgba(0,30,60,.25); }
 .hero__card h2 { font-size: 1.6rem; font-weight: 500; margin: .8rem 0; }
 .hero__card-head { display: flex; align-items: center; gap: .7rem; margin: 0; }
@@ -87,7 +87,6 @@ h4 { font-size: 1.05rem; }
 /* Content panels (v1 style) */
 .band { padding: 4rem 0; border-bottom: 1px solid #e5e5e5; }
 .band > h3 { margin-top: 2.5rem; }
-.intro { font-size: 1.2rem; max-width: 50rem; margin: 0 auto; text-align: center; padding-top: 2rem; }
 
 .grid { display: grid; gap: 1.5rem; margin: 1.5rem 0; }
 .grid-2 { grid-template-columns: repeat(2, 1fr); }

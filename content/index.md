@@ -19,7 +19,8 @@ topic-url: "https://forms.gle/PLACEHOLDER"  # TODO: replace with the Google Form
 ::: {.grid .grid-3}
 ::: card
 ### Open Space Sessions
-As in previous years, Open Space Sessions will fill most of the week. Bring your own topics: participants vote on all proposals, and the most popular ones make it onto the agenda. Want to suggest a topic? Add it to the [planning document](#){.inline} (link to follow).
+As in previous years, Open Space Sessions will fill most of the week. Bring your own topics: participants vote on all proposals, and the most popular ones make it onto the agenda. Want to suggest a topic? Add it to the [planning document](https://forms.gle/EjAAcd1xNprQMC4K7){.inline}.
+Click to [see the proposed topics](https://docs.google.com/spreadsheets/d/1AkVlcmpuwwHDU9O5v82KrZws2PraQa8ph0x-NSEJiqY/edit?usp=sharing)
 :::
 
 ::: card

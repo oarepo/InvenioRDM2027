@@ -99,9 +99,7 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If y
 ### Getting to the Workshop
 **By plane:** Václav Havel Airport Prague (PRG) – trolleybus 59 to Nádraží Veleslavín, then metro A towards Depo Hostivař to Dejvická (about 35 min, €2; see the [Honest Guide](https://www.youtube.com/watch?v=57WeRN0Nrb4)). Alternatively, take an Uber (the official airport taxi).
 
-**By train (from Vienna):** Praha hlavní nádraží (main station) – metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
-
-**By train (from Berlin):** Praha-Holešovice – metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
+**By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
 
 **Local transport:** The venue is a short walk from metro A station Dejvická and the trams at Vítězné náměstí. Always carry a valid ticket – don't risk meeting our not-so-friendly ticket inspectors. Plan your trip and buy tickets in the [PID Lítačka app](https://app.pidlitacka.cz/){.inline}.
 :::

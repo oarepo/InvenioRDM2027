@@ -103,7 +103,7 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If y
 
 **By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – take metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
 
-**Local transport:** The venue is a short walk from Dejvická metro station (line A) and the trams at Vítězné náměstí. Always carry a valid ticket – don't risk meeting our not-so-friendly ticket inspectors. Plan your trip and buy tickets in the [PID Lítačka app](https://app.pidlitacka.cz/){.inline}, or buy paper tickets from the vending machines in metro stations or on board trams and buses (near the middle door). Paper tickets from station machines must be validated before use: in the metro, stamp them in the validator at the station entrance (usually at the top of the escalators, before you go down to the platforms); on trams and buses, stamp them as soon as you board.
+**Local transport:** The venue is a short walk from Dejvická metro station (line A) and the trams at Vítězné náměstí. For tickets and tips, see [Getting around](#getting-around){.inline}.
 :::
 :::
 
@@ -137,6 +137,27 @@ Mid-range hotel in the Old Town, close to the metro. *~3 km from venue*
 Business hotel with conference facilities. *~1.5 km from venue*
 
 [Book](#){.btn}
+:::
+:::
+
+### Getting around
+
+Metro, trams and buses all use the same tickets. Always carry a valid one – don't risk meeting our not-so-friendly ticket inspectors.
+
+::: {.grid .grid-3}
+::: {.card .small}
+#### Buy a ticket
+In the [PID Lítačka app](https://app.pidlitacka.cz/), or from the vending machines in metro stations and on board trams and buses (near the middle door).
+:::
+
+::: {.card .small}
+#### Validate paper tickets
+Tickets from station machines must be stamped before use. In the metro, the validators are at the station entrance (usually at the top of the escalators); on trams and buses, stamp your ticket as soon as you board.
+:::
+
+::: {.card .small}
+#### Plan your trip
+Find connections in the PID Lítačka app or on [pid.cz](https://pid.cz/en/search-connection/?to=Dejvick%C3%A1) – the planner opens with Dejvická, the stop nearest the venue, already filled in.
 :::
 :::
 

@@ -10,7 +10,7 @@ tagline: This is the annual Invenio RDM Project Members Meeting to share experie
 venue: CESNET, Generála Píky 430/26, Praha 6
 hours: 09:00 – 17:00 daily
 registration-url: "#registration"
-topic-url: "https://forms.gle/PLACEHOLDER"  # TODO: replace with the Google Form link
+topic-url: "https://forms.gle/EjAAcd1xNprQMC4K7"
 ---
 
 :::: {#topics .band}

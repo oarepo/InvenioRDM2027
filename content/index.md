@@ -77,7 +77,7 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 - Open Space sessions
 - Wrap-up & next steps
 - **12:00** Farewell
-- Afternoon stroll 
+- Afternoon stroll (Prague Castle) 
 :::
 :::
 ::::
@@ -88,6 +88,8 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 ::: {.grid .grid-2}
 ::: card
 ### CESNET
+![CESNET headquarters, Telehouse building, Generála Píky 430/26](assets/cesnet-building.webp){.card-img}
+
 The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If you arrive on Monday, there will be people there to meet and greet you. If you arrive later, please ask at the reception and they will direct you.
 
 **Address:** CESNET a.l.e., Generála Píky 430/26, 160 00 Praha 6, Czech Republic
@@ -99,9 +101,9 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If y
 ### Getting to the Workshop
 **By plane:** Václav Havel Airport Prague (PRG) – trolleybus 59 to Nádraží Veleslavín, then metro A towards Depo Hostivař to Dejvická (about 35 min, €2; see the [Honest Guide](https://www.youtube.com/watch?v=57WeRN0Nrb4)). Alternatively, take an Uber (the official airport taxi).
 
-**By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
+**By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – take metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
 
-**Local transport:** The venue is a short walk from metro A station Dejvická and the trams at Vítězné náměstí. Always carry a valid ticket – don't risk meeting our not-so-friendly ticket inspectors. Plan your trip and buy tickets in the [PID Lítačka app](https://app.pidlitacka.cz/){.inline}.
+**Local transport:** The venue is a short walk from Dejvická metro station (line A) and the trams at Vítězné náměstí. Always carry a valid ticket – don't risk meeting our not-so-friendly ticket inspectors. Plan your trip and buy tickets in the [PID Lítačka app](https://app.pidlitacka.cz/){.inline}, or buy paper tickets from the vending machines in metro stations or on board trams and buses (near the middle door). Paper tickets from station machines must be validated before use: in the metro, stamp them in the validator at the station entrance (usually at the top of the escalators, before you go down to the platforms); on trams and buses, stamp them as soon as you board.
 :::
 :::
 
@@ -139,6 +141,8 @@ Business hotel with conference facilities. *~1.5 km from venue*
 :::
 
 ### Explore Prague
+
+New to Prague? Before you set out, watch the Honest Guide's [10 Tourist Mistakes You Can Outsmart](https://www.youtube.com/watch?v=FI_31n3gRkg) – it will save you money and hassle.
 
 ::: {.grid .grid-4}
 ::: {.card .small}

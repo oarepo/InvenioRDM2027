@@ -187,7 +187,7 @@ Find connections in the PID Lítačka app or on [pid.cz](https://pid.cz/en/searc
 
 ### Explore Prague
 
-New to Prague? Before you set out, watch the Honest Guide's [10 Tourist Mistakes You Can Outsmart](https://www.youtube.com/watch?v=FI_31n3gRkg) – it will save you money and hassle.
+New to Prague? Before you set out, watch the Honest Guide's [The Only Video You Need to Watch](https://www.youtube.com/watch?v=WJou7DxdP4o).
 
 The official city guides list plenty of places to visit – here are a few of our own favourites. Most sights close before our sessions end each day, so why not stay for the weekend before or after the meeting?
 

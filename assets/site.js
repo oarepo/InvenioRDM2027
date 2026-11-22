@@ -30,6 +30,25 @@
     setInterval(update, 30e3);
   }
 
+  // Photos with a data-full version: link to it and show it in an overlay on click
+  const lightbox = document.createElement("dialog");
+  lightbox.className = "lightbox";
+  lightbox.innerHTML = '<img alt=""><p></p>';
+  lightbox.addEventListener("click", () => lightbox.close());
+  document.body.append(lightbox);
+  document.querySelectorAll("img[data-full]").forEach((img) => {
+    const link = Object.assign(document.createElement("a"), { href: img.dataset.full, className: "zoom", title: "View larger photo" });
+    img.replaceWith(link);
+    link.append(img);
+    link.addEventListener("click", (e) => {
+      if (e.metaKey || e.ctrlKey || e.shiftKey) return; // let "open in new tab" work
+      e.preventDefault();
+      Object.assign(lightbox.querySelector("img"), { src: img.dataset.full, alt: img.alt });
+      lightbox.querySelector("p").innerHTML = img.closest("figure")?.querySelector("figcaption")?.innerHTML ?? "";
+      lightbox.showModal();
+    });
+  });
+
   // Navbar: shadow when stuck, highlight current section
   const nav = document.querySelector(".navbar");
   const links = [...nav.querySelectorAll('a[href^="#"]:not(.navbar__cta)')];

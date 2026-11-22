@@ -96,11 +96,26 @@ h4 { font-size: 1.05rem; }
 
 .card { background: var(--bg); border-radius: var(--radius); padding: 1.5rem; border-top: 4px solid var(--blue); }
 .card > :last-child { margin-bottom: 0; }
+/* Cards in a grid row share a height; pin a closing button to the bottom so buttons line up */
+.grid > .card { display: flex; flex-direction: column; }
+.grid > .card > * { margin-top: 0; }
+.grid > .card > p:last-child:has(.btn) { margin-top: auto; padding-top: .5rem; }
 .card.small { border-top-color: var(--lightblue); padding: 1.1rem; }
 .card.feature { border-top-color: var(--ruby); max-width: 40rem; }
+.card.wide { max-width: none; }
 .card figure { margin: 0 0 1rem; }
 .card-img { display: block; width: 100%; height: auto; border-radius: var(--radius); }
 .card figcaption { font-size: .85rem; margin-top: .3rem; }
+.card.small .card-img { aspect-ratio: 3 / 2; object-fit: cover; }
+.card.small figcaption { font-size: .75rem; }
+.zoom { display: block; cursor: zoom-in; }
+.zoom .card-img { transition: opacity .2s; }
+.zoom:hover .card-img { opacity: .85; }
+.lightbox { max-width: min(92vw, 1600px); max-height: 92vh; padding: 0; border: 0; border-radius: var(--radius); background: #000; cursor: zoom-out; }
+.lightbox::backdrop { background: rgba(0, 20, 40, .85); }
+.lightbox img { display: block; max-width: 100%; max-height: calc(92vh - 2.5rem); margin: 0 auto; }
+.lightbox p { margin: 0; padding: .5rem 1rem; font-size: .85rem; color: #ddd; }
+.lightbox a { color: #fff; }
 .grid-3 > .card:nth-child(2) { border-top-color: var(--lightblue); }
 .grid-3 > .card:nth-child(3) { border-top-color: var(--orange); }
 

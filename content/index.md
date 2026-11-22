@@ -120,14 +120,14 @@ Prague is a very walkable city with excellent public transport. These are the ho
 ::: {.grid .grid-2}
 ::: card
 ### Hotel Belvedere
-In Letná, a lively residential neighbourhood. Single room **1,400 CZK** per night, breakfast included.
+In Letná, a lively residential neighbourhood. Single room **1,400 CZK** (approx. €60) per night, breakfast included.
 
 [Hotel website](https://www.hotelbelvedereprague.cz/en/){.btn}
 :::
 
 ::: card
 ### Hotel Elysee Prague
-On Wenceslas Square, right in the city centre. Single room **1,750 CZK** per night, breakfast included.
+On Wenceslas Square, right in the city centre. Single room **1,750 CZK** (approx. €70) per night, breakfast included.
 
 [Hotel website](https://www.hotelelyseeprague.cz/en/){.btn}
 :::

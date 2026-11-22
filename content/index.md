@@ -108,7 +108,7 @@ The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If y
 :::
 
 ::: {#location .map}
-<iframe title="Map of the CESNET venue" loading="lazy" src="https://www.openstreetmap.org/export/embed.html?bbox=14.3787%2C50.0948%2C14.3987%2C50.1028&amp;layer=mapnik&amp;marker=50.0988%2C14.3887"></iframe>
+<iframe title="Map of the CESNET venue" loading="lazy" referrerpolicy="no-referrer-when-downgrade" src="https://www.google.com/maps?q=CESNET%2C%20Gener%C3%A1la%20P%C3%ADky%20430%2F26%2C%20Praha%206&amp;z=16&amp;output=embed"></iframe>
 :::
 ::::
 

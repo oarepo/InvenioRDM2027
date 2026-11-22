@@ -4,7 +4,7 @@ pagetitle: InvenioRDM Partner Meeting 2027 | Prague, Czech Republic
 eyebrow: Community, collaboration, open science
 headline-1: InvenioRDM 2027
 headline-2: Partner Meeting
-dates: March\ 15–19, 2027
+dates: 15–19\ March 2027
 start: 2027-03-15T09:00:00+01:00
 tagline: This is the annual Invenio RDM Project Members Meeting to share experience, discuss ongoing developments, and strengthen collaboration across the project. The Meeting is open to members of the Invenio RDM Project. Please contact us if you are interested in attending the meeting but are not a project member.
 venue: CESNET, Generála Píky\ 430/26, Praha\ 6

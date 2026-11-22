@@ -1,6 +1,6 @@
 # InvenioRDM Partner Meeting 2027 – Prague
 
-Static site for the InvenioRDM 2027 partner meeting hosted by CESNET (March 15–19, 2027).
+Static site for the InvenioRDM 2027 partner meeting hosted by CESNET (15–19 March 2027).
 
 ## Editing
 

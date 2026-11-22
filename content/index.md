@@ -165,25 +165,27 @@ Find connections in the PID Lítačka app or on [pid.cz](https://pid.cz/en/searc
 
 New to Prague? Before you set out, watch the Honest Guide's [10 Tourist Mistakes You Can Outsmart](https://www.youtube.com/watch?v=FI_31n3gRkg) – it will save you money and hassle.
 
+The official city guides list plenty of places to visit – here are a few of our own favourites.
+
 ::: {.grid .grid-4}
 ::: {.card .small}
-#### Prague Castle
-One of the largest castle complexes in the world, with St. Vitus Cathedral and Golden Lane. About a 15-minute walk from the venue.
+#### Municipal House
+One of Prague's finest Art Nouveau buildings, filled with decorative details, murals and beautiful interiors. Take a guided tour of the ceremonial rooms, or attend a concert in Smetana Hall.
 :::
 
 ::: {.card .small}
-#### Charles Bridge
-The 14th-century stone bridge over the Vltava, lined with 30 baroque statues. Come early in the morning to beat the crowds.
+#### DOX Centre for Contemporary Art
+A former industrial complex transformed into one of Prague's most distinctive contemporary art centres. It hosts thought-provoking exhibitions on art, design, literature and architecture. Don't miss the extraordinary wooden Gulliver airship on its roof.
 :::
 
 ::: {.card .small}
-#### Old Town Square
-Home of the medieval Astronomical Clock and the Týn Church. Three stops from Dejvická on metro A (Staroměstská).
+#### Vyšehrad Casemates and Gorlice Hall
+Explore historic military corridors beneath the fortress and discover a remarkable underground hall housing several of the original Baroque statues from Charles Bridge.
 :::
 
 ::: {.card .small}
-#### Vyšehrad
-A hilltop fortress with great views over the river and the cemetery where Dvořák and Smetana rest. Metro C to Vyšehrad.
+#### Botanical Garden
+A green escape from the city, with outdoor collections, hillside views and the tropical Fata Morgana greenhouse. Stop by St. Clare's Vineyard for a glass of local Prague wine.
 :::
 :::
 ::::

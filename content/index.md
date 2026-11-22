@@ -4,11 +4,11 @@ pagetitle: InvenioRDM Partner Meeting 2027 | Prague, Czech Republic
 eyebrow: Community, collaboration, open science
 headline-1: InvenioRDM 2027
 headline-2: Partner Meeting
-dates: March 15–19, 2027
+dates: March\ 15–19, 2027
 start: 2027-03-15T09:00:00+01:00
 tagline: This is the annual Invenio RDM Project Members Meeting to share experience, discuss ongoing developments, and strengthen collaboration across the project. The Meeting is open to members of the Invenio RDM Project. Please contact us if you are interested in attending the meeting but are not a project member.
-venue: CESNET, Generála Píky 430/26, Praha 6
-hours: 09:00 – 17:00 daily
+venue: CESNET, Generála Píky\ 430/26, Praha\ 6
+hours: 09:00\ – 17:00 daily
 registration-url: "https://events.cesnet.cz/event/84/registrations/102/?form_token=ffef5efa-4304-4325-a82b-387f8307ee31"
 topic-url: "https://forms.gle/EjAAcd1xNprQMC4K7"
 ---
@@ -39,17 +39,17 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 ::: {.grid .grid-5 .schedule}
 ::: day
 #### Monday
-15 March
+15\ March
 
 - Excursion in the morning 
-- **12:00 - 13:00** Welcome & registration
+- **12:00\ –\ 13:00** Welcome & registration
 - Presentations
 - Instance Showcase
 :::
 
 ::: day
 #### Tuesday
-16 March
+16\ March
 
 - Open Space sessions
 - Workshop dinner
@@ -57,14 +57,14 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 
 ::: day
 #### Wednesday
-17 March
+17\ March
 
 - Open Space sessions
 :::
 
 ::: day
 #### Thursday
-18 March
+18\ March
 
 - Open Space sessions
 - Prague pubs (for the brave of heart)
@@ -72,7 +72,7 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 
 ::: day
 #### Friday
-19 March
+19\ March
 
 - Open Space sessions
 - Wrap-up & next steps
@@ -88,22 +88,22 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 ::: {.grid .grid-2}
 ::: card
 ### CESNET
-![CESNET headquarters, Telehouse building, Generála Píky 430/26](assets/cesnet-building.webp){.card-img}
+![CESNET headquarters, Telehouse building, Generála Píky\ 430/26](assets/cesnet-building.webp){.card-img}
 
-The meeting takes place at the CESNET headquarters in Prague 6 – Dejvice. If you arrive on Monday, there will be people there to meet and greet you. If you arrive later, please ask at the reception and they will direct you.
+The meeting takes place at the CESNET headquarters in Prague\ 6\ – Dejvice. If you arrive on Monday, there will be people there to meet and greet you. If you arrive later, please ask at the reception and they will direct you.
 
-**Address:** CESNET a.l.e., Generála Píky 430/26, 160 00 Praha 6, Czech Republic
+**Address:** CESNET a.l.e., Generála Píky\ 430/26, 160\ 00 Praha\ 6, Czech Republic
 
 [View on Mapy.com](https://mapy.com/en/zakladni?q=CESNET%2C%20Gener%C3%A1la%20P%C3%ADky%20430%2F26%2C%20Praha%206&x=14.3887&y=50.0988&z=17){.inline}
 :::
 
 ::: card
 ### Getting there
-**By plane:** Václav Havel Airport Prague (PRG) – trolleybus 59 to Nádraží Veleslavín, then metro A towards Depo Hostivař to Dejvická (about 35 min, €2; see the [Honest Guide](https://www.youtube.com/watch?v=57WeRN0Nrb4)). Alternatively, take an Uber (the official airport taxi).
+**By plane:** Václav Havel Airport Prague (PRG) – trolleybus\ 59 to Nádraží Veleslavín, then metro\ A towards Depo Hostivař to Dejvická (about 35\ min, €2; see the [Honest Guide](https://www.youtube.com/watch?v=57WeRN0Nrb4)). Alternatively, take an Uber (the official airport taxi).
 
-**By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – take metro C towards Háje, change at Muzeum to metro A towards Nemocnice Motol and get off at Dejvická.
+**By train:** stations Praha hlavní nádraží (main station), Praha-Holešovice – take metro\ C towards Háje, change at Muzeum to metro\ A towards Nemocnice Motol and get off at Dejvická.
 
-**Local transport:** The venue is a short walk from Dejvická metro station (line A) and the trams at Vítězné náměstí. For tickets and tips, see [Getting around](#getting-around){.inline}.
+**Local transport:** The venue is a short walk from Dejvická metro station (line\ A) and the trams at Vítězné náměstí. For tickets and tips, see [Getting around](#getting-around){.inline}.
 :::
 :::
 
@@ -127,7 +127,7 @@ In Letná, a lively residential neighbourhood. Single room **1,400\ CZK** (appro
 
 ::: card
 ### Hotel Elysee Prague
-On Wenceslas Square, right in the city centre. Single room **1,750\ CZK** (approx.\ €70) per night, breakfast included.
+On Wenceslas Square, right in the city centre. Single room **1,700\ CZK** (approx.\ €70) per night, breakfast included.
 
 [Hotel website](https://www.hotelelyseeprague.cz/en/){.btn}
 :::
@@ -216,7 +216,7 @@ Explore historic military corridors beneath the fortress and discover a remarkab
 ![Photo: [Horakvlado](https://commons.wikimedia.org/wiki/File:Sklen%C3%ADk_Fata_Morgana,_Pra%C5%BEsk%C3%A1_botanick%C3%A1_zahrada,_Trojsk%C3%A1_194,_Praha_-_Troja_04.JPG), [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)](assets/explore/fata-morgana.jpg){.card-img data-full="assets/explore/full/fata-morgana.jpg" alt="The curved glass Fata Morgana greenhouse"}
 
 #### Botanical Garden
-A green escape from the city, with outdoor collections, hillside views and the tropical Fata Morgana greenhouse. Stop by St. Clare's Vineyard for a glass of local Prague wine.
+A green escape from the city, with outdoor collections, hillside views and the tropical Fata Morgana greenhouse. Stop by St.\ Clare's Vineyard for a glass of local Prague wine.
 :::
 :::
 ::::
@@ -232,8 +232,8 @@ atmosphere and get to know your fellow participants better.
 
 | | |
 |---|---|
-| **Date** | Tuesday 16 March |
-| **Time** | from 19:00 |
+| **Date** | Tuesday 16\ March |
+| **Time** | from\ 19:00 |
 | **Location** | ---  |
 | **Cost** | Self-pay |
 :::
@@ -244,8 +244,8 @@ Join us for a tour of a few traditional Prague pubs. Cheers – and please drink
 
 | | |
 |---|---|
-| **Date** | Thursday 18 March |
-| **Time** | from 19:00 |
+| **Date** | Thursday 18\ March |
+| **Time** | from\ 19:00 |
 | **Location** | ---  |
 | **Cost** | Self-pay |
 :::
@@ -256,8 +256,8 @@ Staying until Saturday? Join us on a day trip to Pilsen and visit the Pilsner Ur
 
 | | |
 |---|---|
-| **Date** | Saturday 20 March |
-| **Time** | morning – 16:00 |
+| **Date** | Saturday 20\ March |
+| **Time** | morning\ – 16:00 |
 | **Location** | Pilsner Urquell Brewery, Pilsen |
 | **Cost** | Self-pay |
 :::
@@ -267,7 +267,7 @@ Staying until Saturday? Join us on a day trip to Pilsen and visit the Pilsner Ur
 :::: {#registration .band .cta}
 ## Registration
 
-Registration is open on CESNET's Indico. Please register by **28 February 2027**.
+Registration is open on CESNET's Indico. Please register by **28\ February\ 2027**.
 
 [Register on Indico](https://events.cesnet.cz/event/84/registrations/102/?form_token=ffef5efa-4304-4325-a82b-387f8307ee31){.btn .btn-light target="_blank" rel="noopener"}
 ::::

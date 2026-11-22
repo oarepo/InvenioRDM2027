@@ -148,11 +148,11 @@ Prices include breakfast but not the city tourist tax. If the hotel replies that
 ::: {.grid .grid-2}
 ::: card
 ### Hotel Diplomat
-Book through the link below, or enter the discount code **CESNET2027** when booking on the hotel's website. Breakfast is included. You can cancel free of charge until 18:00 on the day of arrival. If you arrive after 18:00, please let the hotel know in advance.
+Book through the link below and enter the discount code **CESNET2027**. Breakfast is included. You can cancel free of charge until 18:00 on the day of arrival. If you arrive after 18:00, please let the hotel know in advance.
 
 Tip: it is worth checking whether Booking.com offers a better price.
 
-[Book with discount](https://hoteldiplomat.book-onlinenow.net/index.aspx?Page=3&arrival=01/01/2027&departure=02/01/2027&adults=2&rooms=1&kids=0&src=1&portal=&promo=CESNET2027){.btn}
+[Book online](https://hoteldiplomat.book-onlinenow.net/){.btn}
 :::
 
 ::: card

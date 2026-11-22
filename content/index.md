@@ -60,6 +60,7 @@ Have you built a wonderful instance or new functionality? Do you want to show it
 17\ March
 
 - Open Space sessions
+- Free evening – no social programme planned. Why not visit the [Planetum](https://www.youtube.com/shorts/YX80xp7N-bA)?
 :::
 
 ::: day
